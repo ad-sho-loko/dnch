@@ -1,0 +1,7 @@
+[[dns]]
+name = "google"
+ipAddr = "8.8.8.8"
+
+[[dns]]
+name = "google2"
+ipAddr = "8.8.8.8"
